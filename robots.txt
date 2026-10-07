@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /connexion
+Disallow: /inscription
+
+Sitemap: https://planteshop.app/sitemap.xml
